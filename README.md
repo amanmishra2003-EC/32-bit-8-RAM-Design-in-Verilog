@@ -32,15 +32,13 @@ This project is part of my Digital VLSI and CPU Design learning roadmap, with th
 
 The waveform below shows successful write and read operations for all memory locations.
 
-# Behavioral Simulation
+## Behavioral Simulation
 
-# Behavioral 
+
 <img width="2342" height="1390" alt="Behavioral_simulation" src="https://github.com/user-attachments/assets/388cb913-6dad-498a-ae37-55b68ee02d31" />
 
 
 ## Post-Synthesis Timing Simulation
-
-# Post-Synthesized Simulation
 
 <img width="2332" height="1362" alt="Post_synthesis_simulation" src="https://github.com/user-attachments/assets/1221af27-4802-4c1f-a2a0-0ce3619659cd" />
 
