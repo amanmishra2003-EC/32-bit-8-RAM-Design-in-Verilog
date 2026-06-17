@@ -20,6 +20,8 @@ This project is part of my Digital VLSI and CPU Design learning roadmap, with th
 | Read Operation  | Asynchronous        |
 
 ---
+## RTL Design 
+<img width="2422" height="1498" alt="rtl_schematic" src="https://github.com/user-attachments/assets/022e87e6-bc5d-41f4-98f6-f89d865673b6" />
 
 ### Inputs
 
