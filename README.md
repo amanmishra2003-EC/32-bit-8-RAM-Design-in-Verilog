@@ -21,20 +21,6 @@ This project is part of my Digital VLSI and CPU Design learning roadmap, with th
 
 ---
 
-## RTL Design
-
-![RAM RTL Design](images\Schematic_design\rtl_schematic.png)
-
-## Synthesized Design 
-
-![RAM Synthesized Design](images\Schematic_design\synthesized_schematic.png)
-
-## Simulation Waveform
-
-![RAM Behavioral Simulation Waveform](images/waveform/Behavioral_simulation.png)
-
-![RAM Post-Synthesis Simulation Waveform](images/waveform/Post_synthesis_simulation.png)
-
 ### Inputs
 
 * `clk` : Clock signal
