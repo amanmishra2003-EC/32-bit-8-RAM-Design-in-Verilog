@@ -21,7 +21,23 @@ This project is part of my Digital VLSI and CPU Design learning roadmap, with th
 
 ---
 ## RTL Design 
-<img width="2422" height="1498" alt="rtl_schematic" src="https://github.com/user-attachments/assets/022e87e6-bc5d-41f4-98f6-f89d865673b6" />
+
+![RAM RTL Schematic]<img width="2422" height="1498" alt="rtl_schematic" src="https://github.com/user-attachments/assets/022e87e6-bc5d-41f4-98f6-f89d865673b6" />
+![RAM Synthesized Schematic]<img width="2366" height="1446" alt="synthesized_schematic" src="https://github.com/user-attachments/assets/9fbcd590-e63c-4de4-b4b2-be000b4da235" />
+
+## Waveforms
+
+The waveform below shows successful write and read operations for all memory locations.
+
+## Behavioral Simulation
+
+![Behavioral]<img width="2342" height="1390" alt="Behavioral_simulation" src="https://github.com/user-attachments/assets/388cb913-6dad-498a-ae37-55b68ee02d31" />
+
+
+## Post-Synthesis Timing Simulation
+
+![Timing]<img width="2332" height="1362" alt="Post_synthesis_simulation" src="https://github.com/user-attachments/assets/1221af27-4802-4c1f-a2a0-0ce3619659cd" />
+
 
 ### Inputs
 
